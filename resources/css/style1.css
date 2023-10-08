@@ -75,27 +75,29 @@ input[type=submit]
 .btn-full:link,
 .btn-full:visited,
 input[type=submit] {
-	background-color:#ed07b7;
-	color:#fff;
+	background-color:#f3db03;
+	color:#ffffff;
+	font-size: 20px;
 }
 
 .btn-full:hover,
 .btn-full:active,
 input[type=submit]:hover {
-	background-color:#BD0592;
+	background-color:#f3db03;
 }
 
 .btn-ghost:link,
 .btn-ghost:visited {
-	border:2px solid #ed07b7;
-	color:#ed07b7;
+	border:2px solid #f3db03;
+	color:#0716ed;
 }
 
 .btn-ghost:hover,
 .btn-ghost:active {
-	background-color:#ed07b7;
+	background-color:#f3db03;
 	color:#fff;
 }
+
 
 /*** HEADING SECTION ****/
 
